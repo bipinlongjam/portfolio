@@ -13,7 +13,7 @@ const Home = () => {
                 <h2 className='text-4xl sm:text-7xl font-bold text-white'>
                     I am a Frontend Developer</h2>
                 <p className='text-gray-500 py-4 max-w-md'> 
-                I have 4 months of experience in frontend developer role using react js.
+                I have 4 months of experience as frontend developer role in react js.
                     Currently, 
                     I love to work on more web applications using reactjs and also ready to learn
                     new Tech Stacks </p>

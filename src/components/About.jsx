@@ -10,19 +10,19 @@ const About = () => {
                 About</p>
             </div>
             <p className='text-xl mt-20'>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. 
-                Placeat veniam modi quo labore dolorum debitis doloribus, maxime mollitia libero in accusamus, 
-                perferendis repudiandae vero, nobis neque id itaque ipsa necessitatibus consequatur ullam blanditiis? 
-                Adipisci porro dignissimos itaque eligendi beatae,
-                maiores consectetur vero modi, corporis at assumenda numquam officia magni ratione.
+            Hi, my name is Bipin Longjam. I am from Manipur which is located in North-East of India.
+            I have completed my graduation from Rajasthan Technical 
+            University in B.Tech (Computer Science Engineering) in the year 2019, Rajasthan.
+            My 12th and 10th standard both completed in Manipur from COMET School, Imphal and 
+            Diligent Public School,Moirang.
+
             </p>
             <br/>
             <p className='text-xl'>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. 
-                Sint corporis vel molestiae aperiam dignissimos nihil quasi quam,
-                error voluptates odit earum sapiente veniam nostrum! Voluptas libero harum sint voluptatem vitae ad minima,
-                 dicta iste ullam natus deserunt aliquam porro odit illum quisquam dolorem laudantium dolor, 
-                distinctio repellendus aliquid quia pariatur?
+            I am an energetic and young imaginative Computer Science Engineering Graduate.
+             Who is seeking opportunities to join a company that can help me in enhancing my skills, 
+             strengthening my knowledge, and realizing my potential.
+             I am willing to explore a wide variety of opportunities that can help me gain perspective.
             </p>
             <div className='w-full h-full py-20'>
             <div className='w-full h-full py-20'>
